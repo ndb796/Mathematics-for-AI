@@ -1,6 +1,6 @@
 ### Mathematics for AI
 
-* 인공지능 및 컴퓨터 비전을 위한 수학 강의용 Repository입니다.
+* 인공지능을 위한 수학 강의용 Repository입니다.
 * 핵심 개념 위주로 설명하며, 강의 노트를 제공합니다.
 * 본 Repository에서 다루게 될 내용들은 다음과 같습니다.
 
@@ -28,6 +28,7 @@
 #### 선형대수학(Linear Algebra)
 
 * 벡터(Vector)
+* 코사인 유사도(Cosine Similarity)
 * 기저(Basis)
 * 행렬(Matrix)
 * 행렬식(Determinant)
